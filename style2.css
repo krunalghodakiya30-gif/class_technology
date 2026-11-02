@@ -1,0 +1,15 @@
+<style>
+    table{
+	    border-style:dashed solid dotted double;
+		border-color:orange;
+		border-width:5px;
+		border-top-width:medium;
+		border-bottom-width:thin;
+		border-left-width:thick;
+		border-right-width:5px;
+		border-top:2px solid gray;
+		border- 3px solid red;
+		border-collapse:collapse;
+	}
+	img{
+		
